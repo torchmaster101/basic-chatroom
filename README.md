@@ -7,17 +7,14 @@ Features:
 - Create Rooms
 - Join Rooms
 - Threaded Replies
-- MongoDB
+
+How to start chatroom (Vite):
 
 BACKEND
 
 cd backend
 
 npm install
-
-Create .env file
-
-MONGO_URI=your_connection_string
 
 Run:
 
